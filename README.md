@@ -8,5 +8,5 @@ Este é um projeto desenvolvido em **Python** para calcular o tempo de deslocame
 - **Lógica Matemática:** Conversão de unidades (Km/h para Dias).
 
 ### 📖 Como rodar:
-1. Tenha o Python 3 instalado.
+1. Tenha o Python instalado.
 2. Execute o arquivo: `missao_simulator.py`

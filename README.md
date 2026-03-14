@@ -9,4 +9,4 @@ Este é um projeto desenvolvido em **Python** para calcular o tempo de deslocame
 
 ### 📖 Como rodar:
 1. Tenha o Python 3 instalado.
-2. Execute o arquivo: `python simulador.py`
+2. Execute o arquivo: `missao_simulator.py`
